@@ -15617,6 +15617,22 @@
     "CSharpLanguageVersion": 900
   },
   "RootNamespace": "BookStore",
-  "Documents": [],
+  "Documents": [
+    {
+      "FilePath": "/home/farid/Desktop/CSharp/BookstoreApplication/BookStore/Views/Home/Index.cshtml",
+      "TargetPath": "Views\\Home\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/farid/Desktop/CSharp/BookstoreApplication/BookStore/Views/Home/ContactUs.cshtml",
+      "TargetPath": "Views\\Home\\ContactUs.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/farid/Desktop/CSharp/BookstoreApplication/BookStore/Views/Home/AboutUs.cshtml",
+      "TargetPath": "Views\\Home\\AboutUs.cshtml",
+      "FileKind": "mvc"
+    }
+  ],
   "SerializationFormat": "0.2"
 }
